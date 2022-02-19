@@ -1,7 +1,8 @@
+import React from "react";
 function summer(){
     return(
         <div>
-            summer
+            <p>summer</p>
         </div>
     )
 }

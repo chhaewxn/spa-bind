@@ -1,7 +1,8 @@
+import React from "react";
 function winter(){
     return(
         <div>
-            winter
+            <p>winter</p>
         </div>
     )
 }

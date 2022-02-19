@@ -1,7 +1,8 @@
+import React from "react";
 function spring(){
     return(
         <div>
-            spring
+            <p>spring</p>
         </div>
     )
 }

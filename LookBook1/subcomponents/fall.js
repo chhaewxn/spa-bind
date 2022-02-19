@@ -1,7 +1,8 @@
+import React from "react";
 function fall(){
     return(
         <div>
-            fall
+            <p>fall</p>
         </div>
     )
 }

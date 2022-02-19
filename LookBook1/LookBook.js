@@ -10,8 +10,7 @@ function LookBook (){
     return(
         <BrowserRouter>
             <div className = "LookBook"> LookBook </div>
-            <LookBook1 className = "Look_Button"/>
-            <Route exact = {true} path = "/lookbook" component ={LookBook}/>
+            <Route exact = {true} path= "/lookbook" component ={LookBook1}/>
             <Route path = "/lookbook/spring" component ={spring}/>
             <Route path = "/lookbook/summer" component = {summer}/>
             <Route path = "/lookbook/fall" component ={fall}/>
